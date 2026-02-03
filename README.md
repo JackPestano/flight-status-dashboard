@@ -23,7 +23,7 @@ We’ve been given access to a database containing nearly 2,000,000 commercial f
 
 ## Sample Dashboard
 
-
+- <a href= "https://github.com/JackPestano/flight-status-dashboard/blob/main/Flight%20Status%20Dashboard%20Jack_page-0001.jpg">Dashboard</a>
 
 ## Dataset
 - <a href= "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVRQOVZQYzMtN282eHdiYVdWcFdUU25hZERoQXxBQ3Jtc0tsUm9sRXgwYlVlMjBKYlV3NkNJSDdpUmRDUlByMnNoRVlPZnJWT1pDWVNjOW94YnVTeTNpM3ByYVdrWnNZNTJDMWVmamxmMk5EaFo4VnRac01KZ0NwOTRJMHpodzVNVFExaUVPZTV6RFAzSjdQelBqdw&q=https%3A%2F%2Fmaven-datasets.s3.amazonaws.com%2FAirline%2BFlight%2BDelays%2FAirline%2BFlight%2BDelays.zip&v=aLV4Qe60VK4">Dataset</a>
